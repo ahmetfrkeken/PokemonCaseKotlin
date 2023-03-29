@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokemonCaseKotlin</string>
+    <string name="give_the_overlay_permission">Give The Overlay Permission</string>
+    <string name="default_value">Default Value</string>
+    <string name="pokemon_name">Pokemon Adı:</string>
+    <string name="pokemon_height">Pokemon Height:</string>
+    <string name="pokemon_weight">Pokemon Weight:</string>
+    <string name="close_app">Close App</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="try_again">Try Again</string>
+    <string name="network_error">Network Error</string>
+</resources>

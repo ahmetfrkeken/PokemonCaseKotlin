@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PokemonCaseKotlin</string>
+    <string name="give_the_overlay_permission">Overlay iznini bana ver</string>
+    <string name="default_value">Varsayılan Değer</string>
+
+    <string name="pokemon_name">Pokemon Adı:</string>
+    <string name="pokemon_height">Pokemon Yüksekliği:</string>
+    <string name="pokemon_weight">Pokemon Ağırlığı:</string>
+
+    <string name="close_app">Uygulamayı Kapat</string>
+
+    <string name="open">Açık</string>
+    <string name="close">Kapalı</string>
+    <string name="try_again">Tekrar Deneyin</string>
+    <string name="network_error">İnternet Hatası</string>
+</resources>
